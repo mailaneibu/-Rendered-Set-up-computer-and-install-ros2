@@ -18,13 +18,15 @@
 
 Normally you will be in bios : 
 
-IMAGE
+![Screenshot 2023-04-06 164911](https://user-images.githubusercontent.com/118521344/230491469-f4195413-6533-4a09-925a-8d855612c45a.png)
+
 
 -Go in 'Boot Sequence' and choose your device (for us it is the usb) then click on 'apply'
 
 If there is a security error : 
 
-IMAGE
+![Screenshot 2023-04-06 165001](https://user-images.githubusercontent.com/118521344/230491493-08177f59-84ad-427d-9db0-a715e57c0dde.png)
+
 
 Go in 'security' in the boot
 - click exit, then click yes to erase the computer and set up a new one with ubuntu
