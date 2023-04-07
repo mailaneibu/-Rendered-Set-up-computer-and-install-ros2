@@ -1,6 +1,5 @@
-# -Rendered-Set-up-computer-and-install-ros2
+# Set-up-computer-and-install-ros2
 
-# Set up computer and install ros2
 
 
 
